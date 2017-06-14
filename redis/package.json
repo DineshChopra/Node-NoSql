@@ -1,0 +1,14 @@
+{
+  "name": "Redis Test",
+  "version": "0.0.1",
+  "description": "Redis Test example",
+  "dependencies": {
+    "redis": "^2.7.1"
+  }
+}
+// MAXIMIZING NODE_REDIS PERFORMANCE
+/*
+npm install hiredis
+if you upgrade node then you have to rebuild hiredis
+npm rebuild hiredis
+*/

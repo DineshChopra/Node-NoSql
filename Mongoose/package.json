@@ -1,0 +1,8 @@
+{
+  "name": "Mongoose Test",
+  "version": "0.0.1",
+  "description": "Mongoose Test example",
+  "dependencies": {
+    "mongoose": "^4.10.6"
+  }
+}

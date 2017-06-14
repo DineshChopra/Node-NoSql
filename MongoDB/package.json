@@ -1,0 +1,8 @@
+{
+  "name": "MongoDB Test",
+  "version": "0.0.1",
+  "description": "MongoDB Test example",
+  "dependencies": {
+    "mongodb": "^2.2.28"
+  }
+}

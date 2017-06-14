@@ -1,0 +1,8 @@
+{
+  "name": "work-tracking",
+  "version": "0.0.1",
+  "description": "Work Tracking node-mysql example",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
